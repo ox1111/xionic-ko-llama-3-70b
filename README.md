@@ -1,3 +1,4 @@
+
 # xionic-ko-llama-3-70b
 
 ## 상업적 이용이 가능한 라이센스의 한국어 모델 
@@ -77,3 +78,7 @@ curl --location 'http://sionic.chat:8001/v1/chat/completions' --header 'Content-
 ```
 
 https://lk.instruct.kr/
+
+
+
+![1](./1.PNG)
